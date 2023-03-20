@@ -64,7 +64,7 @@ h2 {
 
 .main {
   padding-top: 50px;
-  background-image: url(/img/main_background.png);
+  background-image: url(../img/main_background.png);
   background-repeat: no-repeat;
   background-color: #252423;
   background-position: center center;
@@ -332,7 +332,7 @@ h2 {
 .openblock {
   padding-bottom: 200px;
   position: relative;
-  background: url(/img/open_back.png);
+  background: url(../img/open_back.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -546,13 +546,13 @@ h2 {
   background: #262626;
 }
 .help_card-1 {
-  background-image: url(/img/card_image1.png);
+  background-image: url(../img/card_image1.png);
   background-repeat: no-repeat;
   background-position: center right -20px;
   background-size: 110%;
 }
 .help_card-2 {
-  background-image: url(/img/card_image2.png);
+  background-image: url(../img/card_image2.png);
   background-repeat: no-repeat;
   background-position: center right -20px;
   background-size: 110%;
@@ -562,19 +562,19 @@ h2 {
   width: 200px;
 }
 .help_card-3 {
-  background-image: url(/img/card_image3.png);
+  background-image: url(../img/card_image3.png);
   background-repeat: no-repeat;
   background-position: center right -20px;
   background-size: 110%;
 }
 .help_card-4 {
-  background-image: url(/img/card_image4.png);
+  background-image: url(../img/card_image4.png);
   background-repeat: no-repeat;
   background-position: center right -20px;
   background-size: 110%;
 }
 .help_card-5 {
-  background-image: url(/img/card_image5.png);
+  background-image: url(../img/card_image5.png);
   background-repeat: no-repeat;
   background-position: bottom -20px right -20px;
   background-size: 112%;
@@ -616,7 +616,7 @@ h2 {
   color: #FFFFFF;
 }
 .help_card-text::before {
-  content: url(/img/tick.svg);
+  content: url(../img/tick.svg);
   position: absolute;
   display: block;
   left: 0;
@@ -653,7 +653,7 @@ h2 {
   overflow: hidden;
 }
 .experience::after {
-  content: url(/img/exp_back.png);
+  content: url(../img/exp_back.png);
   position: absolute;
   top: 0px;
   z-index: -1;
@@ -1103,7 +1103,7 @@ h2 {
   opacity: 0.9;
   z-index: -1;
   position: absolute;
-  background: url(/img/open_wrapper.png);
+  background: url(../img/open_wrapper.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 110%;
