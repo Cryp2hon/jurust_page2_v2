@@ -165,7 +165,7 @@
 
 @media (max-width: 750px) {
   .modal-theme {
-    width: 322px;
+    width: 330px;
     height: 520px;
   }
   .modal-theme_inn {
@@ -252,6 +252,7 @@
   }
   .theme-form_wrap form input {
     width: 290px;
+    padding: 0;
     height: 60px;
     border: none;
     background: rgb(237, 237, 237);
