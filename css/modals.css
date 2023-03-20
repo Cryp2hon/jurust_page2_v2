@@ -251,7 +251,7 @@
     display: none;
   }
   .theme-form_wrap form input {
-    width: 311px;
+    width: 290px;
     height: 60px;
     border: none;
     background: rgb(237, 237, 237);
@@ -263,7 +263,7 @@
   }
   .theme-form_wrap form button {
     margin-bottom: 10px;
-    width: 311px;
+    width: 290px;
     height: 70px;
     border-radius: 10px;
     background: linear-gradient(180deg, #F69D4B 0%, #EE8524 100%);
