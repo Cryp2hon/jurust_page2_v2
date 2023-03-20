@@ -367,7 +367,7 @@ h2 {
   border: 1px solid #F1F1F1;
   border-radius: 25px;
   overflow: hidden;
-  background: url(/img/open_wrapper.png), linear-gradient(110.04deg, #000000 30%, #4A4A4A 141.71%);
+  background: url(../img/open_wrapper.png), linear-gradient(110.04deg, #000000 30%, #4A4A4A 141.71%);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 101%;
